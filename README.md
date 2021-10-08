@@ -1,4 +1,4 @@
-# Module 9: Sruf's Up with Advanced Data Storage and Retrieval
+# Module 9: Surf's Up with Advanced Data Storage and Retrieval
 
 ## Overview
 
