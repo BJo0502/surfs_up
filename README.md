@@ -14,4 +14,4 @@ We’ve been provided quite a bit of recorded temperatures spanning multiple yea
 
 ## Summary
 
-Based on our analysis, it appears that Oahu is the ideal location for surfing and ice cream as far as temperature is concerned. That being said, we know that the success of a surf and shake shop will depend on more than the ideal temperature. Two additional queries we could consider would be the average precipitation for both months and the frequency of precipitation to understanding how many days per month typically experience precipitation.
+Based on our analysis, it appears that Oahu is the ideal location for surfing and ice cream as far as temperature is concerned. That being said, we know that the success of a surf and shake shop will depend on more than the ideal temperature. Two additional queries we could consider would be the average precipitation for both months and the frequency of precipitation to understand how many days per month typically experience precipitation for both June and December.
